@@ -28,4 +28,4 @@ Here are the steps to take in case Google Colab is unavailable due to blockages,
 6. Commit changed notebook(s) to the local copy of your repository, e.g. by issuing `git add <filename>` and `git commit` commands.
 
 ## Excercise 2
-Proceed to open the [matplotlib_assignment.ipynb](matplotlib_assignment.ipynb) notebook on GitHub and follow to Colab. Or just click this button: {{badge matplotlib_assignment.ipynb}}
+Proceed to open the [matplotlib_assignment.ipynb](matplotlib_assignment.ipynb) notebook on GitHub and follow to Colab. Or just click this button: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hse-mlwp-2022/assignment2-template/blob/main/matplotlib_assignment.ipynb)
